@@ -1,4 +1,4 @@
-# caledonia-way
+# Caledonia Way 7th June
 
 ## Route
 https://ridewithgps.com/routes/29526124
@@ -7,13 +7,16 @@ https://ridewithgps.com/routes/29526124
 - https://www.calmac.co.uk/ardrossan-campbeltown-ferry-summer-timetable
 - 17:36 Glasgow Central station to Campbeltown
 - 21:20 Arrive in Campbeltown
+- Accomodation: £18/head w/ bike storage https://campbeltownbackpackers.co.uk/index.php
 
 ## Saturday
 - Cycle 70.5 miles from Campbeltown to Lochgilphead
+- Accomodation: £23/head w/ bike storage https://independenthostels.co.uk/members/argyllbackpackers/
 
 ## Sunday
 - Cycle 72 miles from Lochgilphead to Duror
 (Option 2: Cycle 58 miles from Lochgilphead to Barcaldine)
+- Accomodation: £150/family room w/ bike storage https://www.pineapplehouse.co.uk/accommodation/
 
 
 ## Monday
@@ -26,6 +29,7 @@ https://ridewithgps.com/routes/29526124
     - Ferry costs £1.50 single
     
 - Cycle 32 miles to Fort Augustus
+- Accomodation: £80/room (4 people) https://www.airbnb.co.uk/rooms/24443342?s=51
 
 ## Tuesday
 - Cycle 36 miles to Inverness
