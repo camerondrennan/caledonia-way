@@ -8,15 +8,18 @@ https://ridewithgps.com/routes/29526124
 - 17:36 Glasgow Central station to Campbeltown
 - 21:20 Arrive in Campbeltown
 - Accomodation: £18/head w/ bike storage https://campbeltownbackpackers.co.uk/index.php
+- Tim
 
 ## Saturday
 - Cycle 70.5 miles from Campbeltown to Lochgilphead
 - Accomodation: £23/head w/ bike storage https://independenthostels.co.uk/members/argyllbackpackers/
+- Marty
 
 ## Sunday
 - Cycle 72 miles from Lochgilphead to Duror
 (Option 2: Cycle 58 miles from Lochgilphead to Barcaldine)
 - Accomodation: £150/family room w/ bike storage https://www.pineapplehouse.co.uk/accommodation/
+- Willy
 
 
 ## Monday
@@ -30,6 +33,7 @@ https://ridewithgps.com/routes/29526124
     
 - Cycle 32 miles to Fort Augustus
 - Accomodation: £80/room (4 people) https://www.airbnb.co.uk/rooms/24443342?s=51
+- Cammy
 
 ## Tuesday
 - Cycle 36 miles to Inverness
