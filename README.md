@@ -32,7 +32,7 @@ https://ridewithgps.com/routes/29526124
     - Ferry costs £1.50 single
     
 - Cycle 32 miles to Fort Augustus
-- [x] Accomodation: **BOOKED** £80/room (4 people) https://www.airbnb.co.uk/rooms/24443342?s=51
+- [x] Accomodation: **BOOKED** £80/room (4 people) w/ bike storage https://www.airbnb.co.uk/rooms/24443342?s=51
 - Cammy (Free cancellation till Friday 3rd May)
 
 ## Tuesday 11th June
