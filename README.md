@@ -18,7 +18,7 @@ https://ridewithgps.com/routes/29526124
 ## Sunday 9th June
 - Cycle 72 miles from Lochgilphead to Duror
 (Option 2: Cycle 58 miles from Lochgilphead to Barcaldine)
-- [ ] Accomodation: £150/family room w/ bike storage https://www.pineapplehouse.co.uk/accommodation/
+- [ ] Accomodation: £37.50/head for £150/family room w/ bike storage https://www.pineapplehouse.co.uk/accommodation/
 - Willy
 
 
@@ -32,7 +32,7 @@ https://ridewithgps.com/routes/29526124
     - Ferry costs £1.50 single
     
 - Cycle 32 miles to Fort Augustus
-- [x] Accomodation: **BOOKED** £80/room (4 people) w/ bike storage https://www.airbnb.co.uk/rooms/24443342?s=51
+- [x] Accomodation: **BOOKED** £20.21/head (4 people) w/ bike storage https://www.airbnb.co.uk/rooms/24443342?s=51
 > Thank you for booking Nessie I will provide driving directions and access details for your room prior to your arrival date, please ensure to print these details and bring them with you when you travel as you will require them to gain access to your room. For bike storage: We have a bike storage space in the building, alternatively you can take them into your room or leave them in the hallway. Meantime please do get in touch if you have any questions about your booking or the area.
 - Cammy (Free cancellation till Friday 3rd May)
 
