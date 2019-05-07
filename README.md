@@ -18,8 +18,9 @@ https://ridewithgps.com/routes/29526124
 ## Sunday 9th June
 - Cycle 72 miles from Lochgilphead to Duror
 (Option 2: Cycle 58 miles from Lochgilphead to Barcaldine)
-- [ ] Accomodation: AirBnb https://www.airbnb.co.uk/rooms/34239404?s=51
-- Willy
+- [x] Accomodation: £27.43/head (4 people) w/ bike storage https://www.airbnb.co.uk/rooms/34239404?s=51
+> Yes Cameron I have a garage and a shed for bike storage.
+- Cammy (Free cancellation till Thursday 9th May)
 
 
 ## Monday 10 June
@@ -33,7 +34,7 @@ https://ridewithgps.com/routes/29526124
     
 - Cycle 32 miles to Fort Augustus
 - [x] Accomodation: **BOOKED** £20.21/head (4 people) w/ bike storage https://www.airbnb.co.uk/rooms/24443342?s=51
-> Thank you for booking Nessie I will provide driving directions and access details for your room prior to your arrival date, please ensure to print these details and bring them with you when you travel as you will require them to gain access to your room. For bike storage: We have a bike storage space in the building, alternatively you can take them into your room or leave them in the hallway. Meantime please do get in touch if you have any questions about your booking or the area.
+> We have a bike storage space in the building, alternatively you can take them into your room or leave them in the hallway.
 - Cammy (Free cancellation till Friday 3rd May)
 
 ## Tuesday 11th June
