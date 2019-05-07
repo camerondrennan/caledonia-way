@@ -18,7 +18,7 @@ https://ridewithgps.com/routes/29526124
 ## Sunday 9th June
 - Cycle 72 miles from Lochgilphead to Duror
 (Option 2: Cycle 58 miles from Lochgilphead to Barcaldine)
-- [ ] Accomodation: £37.50/head for £150/family room w/ bike storage https://www.pineapplehouse.co.uk/accommodation/
+- [ ] Accomodation: AirBnb https://www.airbnb.co.uk/rooms/34239404?s=51
 - Willy
 
 
